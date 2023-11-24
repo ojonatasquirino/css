@@ -1,4 +1,4 @@
-<h1 align='center'>commit semântico</h1>
+<h1 align='center'>commitando semanticamente</h1>
 
 <p  align='center'>O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador de seu código. Essa é uma boa prática para ambientes de desenvolvimento.</p>
 
