@@ -1,4 +1,4 @@
-<h1 align='center'> css-moderno </h1> 
+<h1 align='center'> CSS Moderno </h1> 
 
 Este repositório é a documentação da minha evolução nos estudos de HTML e CSS Modernos. Aqui estão as minhas anotações, códigos e aplicações. Aqui conterá prática e exercícios para construção de layouts responsivos e dinâmicos.
 
