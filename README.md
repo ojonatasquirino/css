@@ -1,5 +1,4 @@
 <h1 align='center'> CSS (Cascading Style Sheets) </h1> 
-Este repositório é a documentação da minha evolução nos estudos de HTML e CSS Modernos. Aqui estão as minhas anotações, códigos e aplicações. Aqui conterá prática e exercícios para construção de layouts responsivos e dinâmicos.
 
 ## ambiente e ferramentas de codificação
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
@@ -8,7 +7,7 @@ Este repositório é a documentação da minha evolução nos estudos de HTML e 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-## documentação e cursos utilzados
+## documentação e cursos utilizados
 
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![curso](https://img.shields.io/badge/one_bit_code-0D1117?style=for-the-badge&logo=Databricks&logoColor=red)
