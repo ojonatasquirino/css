@@ -54,7 +54,6 @@ Ao aprofundar-me no estudo da estilização web, pretendo não apenas aplicar es
 <div  align='center'> 
 
 [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-![curso](https://img.shields.io/badge/one_bit_code-0D1117?style=for-the-badge&logo=Databricks&logoColor=red)
 ![curso](https://img.shields.io/badge/origamid-0D1117?style=for-the-badge&logo=Databricks&logoColor=993399)
 # ambiente de codificação <a name="id05"></a>
 
@@ -74,7 +73,7 @@ Ao aprofundar-me no estudo da estilização web, pretendo não apenas aplicar es
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/css-moderno.git
+git clone https://github.com/ojonatasquirino/estudos-css.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
@@ -114,18 +113,7 @@ yarn start
 
 #
 
-<<<<<<< HEAD
-## ambiente e ferramentas de codificação
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)  
 
-## tecnologias de aprendizado 
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue)
-
- 
-=======
 [comment]: <> (Adicione as suas redes sociais e profissionais)
 
 <div  align='center'>
@@ -139,4 +127,4 @@ yarn start
 [![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
->>>>>>> 7f3224027f91bd527e883ad0a0a2ece3b576c1b0
+
