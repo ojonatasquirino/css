@@ -76,25 +76,6 @@ Clone este repositório usando o comando:
 git clone https://github.com/ojonatasquirino/estudos-css.git
 ```
 
-Instale na pasta do projeto as dependências com uso do npm ou yarn:
-
-```bash
-npm install
-
-ou
-
-yarn install
-```
-
-Inicie o projeto com:
-
-```bash
-npm start
-
-ou
-
-yarn start
-```
 [comment]: <> (Adicione o link da implatação, se houver)
 
 # laytous dos projetos <a name="id06.01"></a>
